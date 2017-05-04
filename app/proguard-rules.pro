@@ -15,3 +15,6 @@
 #-keepclassmembers class fqcn.of.javascript.interface.for.webview {
 #   public *;
 #}
+
+#我也是在学习啊。好好学习。天天向上，
+#知道么？
